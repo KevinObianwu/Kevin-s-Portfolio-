@@ -1,6 +1,6 @@
 /*SCRIPT NAME:                    [NST_Performance]
     LAST MODIFIED DATE:           29/12/2022
-    LAST MODIFIED BY:             Mary-Ann Dent
+    LAST MODIFIED BY:             Kevin Obianwu
 	TABLE CREATED FOR:			  Business Insights Team
     CHANGE REF NO:                00
     SOURCE TABLES & ALIASES:      cbg_cdm_output_operations, [dbo].[people_table_availability_data]
