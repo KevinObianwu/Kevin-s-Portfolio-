@@ -16,7 +16,7 @@ import shutil
 
 
 downloads_folder = r"C:\Users\DOSHEA1\Downloads"
-destination_folder = r"\\thameswater.sharepoint.com@SSL\DavWWWRoot\sites\ThamesWater-WaterNetworksHub\SitePages\Customer"
+destination_folder = r"\\xxxxxxxx.sharepoint.com@SSL\DavWWWRoot\sites\xxxxxx\SitePages\Customer"
 file_name_prefix = "Complaints_Data_Download"
 
 
@@ -40,7 +40,7 @@ try:
     # You may need to add additional wait time or logic to handle the next steps after clicking the element
 
 except NoSuchElementException:
-    print("Element with data-test-id 'david.oshea@thameswater.co.uk' not found")
+    print("Element with data-test-id 'xxxxxxxx.co.uk' not found")
 
 # Wait for the export data button to load
 time.sleep(15)
